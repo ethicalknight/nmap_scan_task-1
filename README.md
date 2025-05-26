@@ -21,9 +21,3 @@ Perform a TCP SYN scan across the local network to:
 - **Wireshark** (optional, for packet analysis)
 
 ---
-
-## 🚀 How to Run the Scan
-
-### 1. Update System & Install Nmap
-```bash
-sudo apt update && sudo apt install nmap -y
